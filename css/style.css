@@ -1,0 +1,92 @@
+.Welcome {
+    text-align: center;
+    font-family: monospace;
+    line-height: 10;
+    position: fixed;
+    padding: 50px;
+    border: 3px solid blue;
+}
+
+.Subcome {
+    text-align: right;
+    font-family: monospace;
+    line-height: 15;
+    position: fixed;
+    padding: 60px;
+}
+
+body {
+    background-color: ghostwhite;
+    
+}
+
+
+.Today {
+    font-family: monospace;
+    text-align: right;
+    width: 970px;
+    padding: 90px;
+    position: relative;
+    float: right;
+
+}
+
+.Start {
+    font-family: monospace;
+    text-align: right;
+    width: 970px;
+    position: relative;
+    padding: 90px; 
+    float: right;
+    margin: 5px solid black;
+
+}
+
+.Running {
+    font-family: monospace;
+    text-align: right;
+    width: 970px;
+    position: relative;
+    float: right;
+    margin: 1px;
+    padding: 90px;
+}
+
+.one {
+    display: inline;
+}
+
+.two {
+    display: inline;
+}
+
+.three {
+    display: inline;
+}
+
+.four {
+    display: inline;
+}
+
+.five {
+    display: inline;
+}
+
+.six {
+    display: inline;
+}
+
+.seven {
+    display: inline;
+}
+
+.eight {
+    display: inline;
+}
+
+
+.mybody {
+    padding: 200px
+}
+
+
