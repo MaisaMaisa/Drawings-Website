@@ -1,3 +1,26 @@
+#inline{
+    display: inline;
+    position: relative;
+    bottom: -150px;
+    right: 30px;
+}
+
+#inline2 {
+    display: inline;
+    position: relative;
+    bottom: -250px;
+    text-align:left;
+    right: 700px;
+}
+
+#inline3 {
+    display: inline;
+    position: relative;
+    bottom: -250px;
+    text-align:left;
+    right: 1000px;
+}
+
 .Welcome {
     text-align: center;
     font-family: monospace;
@@ -28,6 +51,7 @@ body {
     padding: 90px;
     position: relative;
     float: right;
+
 
 }
 
@@ -89,4 +113,15 @@ body {
     padding: 200px
 }
 
+.run{
+   display: inline; 
+}
 
+
+.run2{
+   display: inline; 
+}
+
+.run3{
+   display: inline; 
+}

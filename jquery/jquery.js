@@ -7,10 +7,26 @@ $(".four").slideUp(2000).slideDown(3000);
 $(".five").slideUp(5000).slideDown(5000);
 $(".six").slideUp(3000).slideDown(3000);
 $(".seven").slideToggle(500).fadeIn(700);
-$(".eight").fadeOut(5000).fadeIn(5000)
+$(".eight").fadeOut(5000).fadeIn(5000);
+
+$(".run").fadeOut(5000);
+$(".run2").fadeOut(5000);
+$(".run3").fadeOut(5000).fadeIn(7000);   
+});
+
+
+        
 
     
-$(".run").animate({left: '250px'});
-    
-});
+   /* $(".run3").click(function(){
+    $("run3").animate({
+        left: '250px',
+        opacity: '0.5',
+    });
+}); 
+
+
+setTimeout(function(){
+    alet("do something");
+},3000);*/
 
